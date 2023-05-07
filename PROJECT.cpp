@@ -1,4 +1,3 @@
-//Roll No: 203078, 203092, 203102
 #include<iostream>
 #include<fstream>
 #include <iomanip>
@@ -33,7 +32,7 @@ class display
         cout<<"1. Dengue season has arrived in Pakistan, and it's the time to get prepared to keep yourself,\nand people around you protected from Dengue fever.\n"<<endl;
 		cout<<"2. The best course of action to exterminate dengue mosquitoes from indoor and outdoor areas\n of yard.to call in a reliable and trusted pest control service before they target you.\n"<<endl;
 		cout<<"3.Service Square takes great pride in offering highly effective\n yet incredibly affordable dengue spray services in Multan.\n"<<endl;
-		cout<<"4.We have monthly and one-time treatment options for various \nproperty types – from single-family homes to commercial buildings.\n"<<endl;
+		cout<<"4.We have monthly and one-time treatment options for various \nproperty types â€“ from single-family homes to commercial buildings.\n"<<endl;
 		cout<<"5.All of our dengue spray services are provided by our extensively experienced technicians \nwho always come up with unique solutions to help you get rid of mosquitos from your yard.\n"<<endl;
 		cout<<"6.Our anti-dengue spray service begins with a thorough inspection of your home or office \nspace to inspect the mosquitos and identify the places where they breed.\n"<<endl;
 		cout<<"7.Since dengue mosquitoes thrive in a humid and tropical environment, our technicians \nwill look for any stagnant water in your yard during the survey.\n"<<endl;
